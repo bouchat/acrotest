@@ -1,12 +1,31 @@
-## Welcome to GitHub Pages
+# Acro For All
 
-You can use the [editor on GitHub](https://github.com/bouchat/acrotest/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+![Poster](src=poster-20220218-color.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Additional Resources
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+### Overview
+[Origin of Race in the USA](https://www.youtube.com/watch?v=CVxAlmAPHec") (PBS)
+
+[The Urgency of Intersectionality](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality?language=en) (Kimberlé Crenshaw)
+
+### Implicit Bias
+[Peanut Butter, Jelly, Racism](https://www.pbs.org/video/pov-implicit-bias-peanut-butter-jelly-and-racism/") (PBS)
+
+[The Coronavirus Was an Emergency Until Trump Found Out Who Was Dying](https://www.theatlantic.com/ideas/archive/2020/05/americas-racial-contract-showing/611389/) (Adam Serwer)
+
+### Privilege
+[Why People of Color Need Spaces Without White People](https://arrow-journal.org/why-people-of-color-need-spaces-without-white-people/) (Kelsey Blackwell)
+
+### Cultural Appropriation
+[Here's what it looks like when cultural appropriation is done right](https://www.youtube.com/watch?v=cEz8-oywKUk)  (Quartz)
+
+### Microaggressions
+[Everyday Microaggressions](https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201010/racial-microaggressions-in-everyday-life) (Derald Wing Sue)
+
+
 
 ```markdown
 Syntax highlighted code block
@@ -23,15 +42,9 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and 
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+## Contact Us
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bouchat/acrotest/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+For more info, please email <info@acroforall.info>.
