@@ -1,6 +1,6 @@
 # Acro For All
 
-![Poster](src=poster-20220218-color.pdf)
+<iframe height="1200" width="100%" src="static/poster-20220218-color.pdf"></iframe>
 
 
 ## Additional Resources
@@ -25,25 +25,6 @@
 ### Microaggressions
 [Everyday Microaggressions](https://www.psychologytoday.com/us/blog/microaggressions-in-everyday-life/201010/racial-microaggressions-in-everyday-life) (Derald Wing Sue)
 
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and 
-```
 
 ## Contact Us
 
